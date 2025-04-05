@@ -1,0 +1,14 @@
+# a22xnsxx-user 13 TP1A.220624.014 A226BXXSBDYA1 release-keys
+- manufacturer: samsung
+- platform: mt6833
+- codename: a22x
+- flavor: a22xnsxx-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: A226BXXSBDYA1
+- tags: release-keys
+- fingerprint: samsung/a22xnsxx/a22x:12/SP1A.210812.016/A226BXXSBDYA1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a22xnsxx-user-13-TP1A.220624.014-A226BXXSBDYA1-release-keys
+- repo: samsung_a22x_dump
